@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 My name is Max Savery. I am a PhD student at Ghent University in the Department of Data Analysis and Mathematical Modelling, BioStat group. 
 The group's page can be found [here](https://biostat.ugent.be/). 
 
