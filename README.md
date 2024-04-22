@@ -1,1 +1,1 @@
-Personal website for twitter stuff, illustrations, and writing
+Personal website: https://saverymax.github.io/
